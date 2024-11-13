@@ -1,3 +1,1 @@
-SUCCESS  # <- GT4500
-SUCCESS  # <- TORPEDO
-FAIL  # <- TORPEDO
+Invalid numerical arguments passed: For input string: "A"  # <- GT4500
