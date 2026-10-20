@@ -1,0 +1,4 @@
+GT4500,2,0.0,0,0.0 # Elsődlegesben 2 torpedó, másodlagos üres
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT
