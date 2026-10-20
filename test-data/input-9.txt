@@ -1,0 +1,2 @@
+GT4500,0,0,1,0 # 0 elsődleges, 1 másodlagos, 91.sor lefedése
+TORPEDO,ALL
