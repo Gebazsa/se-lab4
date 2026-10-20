@@ -1,7 +1,6 @@
 package hu.bme.mit.spaceship;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -35,4 +34,15 @@ class GT4500Test {
         // Assert
         assertEquals(true, result);
     }
+    @Test
+    public void fireLaser_NotImplemented() {
+    
+    // Act
+    boolean result = ship.fireLaser(FiringMode.SINGLE);
+    
+    // Assert
+    assertEquals(false, result);
+}
+
+
 }
